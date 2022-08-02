@@ -15,7 +15,7 @@
 	- Modo campanha
 		- PVP
 	- Stamina de Jogo
-	- Otario COINs
+	- COINs
 
 ## Engine
 
